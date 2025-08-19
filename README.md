@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and C
 - 💞️ I’m looking to collaborate on mini projects
 - 📫 How to reach me waqaarhasan63@gmail.com
-- 😄 Pronouns: Bro is valid.
+- 😄 Pronouns: He/his
 - ⚡ Fun fact: This file.
 
 <!---
