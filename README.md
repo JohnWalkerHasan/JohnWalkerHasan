@@ -8,7 +8,7 @@ I'm **Waqar Hasan**
 - 💞️ Open to collaborate on **mini projects**  
 - 📫 Reach me at: **waqaarhasan63@gmail.com**  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I still get excited by “Hello World!”
+- ⚡ Fun fact: I learned that semicolons can be scarier than bugs.
 
 ---
 
