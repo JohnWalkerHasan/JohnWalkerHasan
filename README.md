@@ -14,6 +14,8 @@ I'm **Waqar Hasan**
 
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqar-hasan-2332311a9/)  
+
+### Checkout my Leetcode
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/JohnWalkerHasan/)
 
 ---
