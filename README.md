@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @JohnWalkerHasan
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Java and C
-- 💞️ I’m looking to collaborate on mini projects
-- 📫 How to reach me waqaarhasan63@gmail.com
-- 😄 Pronouns: He/his
-- ⚡ Fun fact: This file.
+### Hi There 👋
 
-<!---
-JohnWalkerHasan/JohnWalkerHasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm **Waqar Hasan**  
+
+- 👀 Interested in **Python**  
+- 🌱 Currently learning **Java** and **C**  
+- 💾 Familiar with **MySQL**  
+- 💞️ Open to collaborate on **mini projects**  
+- 📫 Reach me at: **waqaarhasan63@gmail.com**  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I still get excited by “Hello World!”
+
+---
+
+### 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqar-hasan-2332311a9/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/JohnWalkerHasan/)
+
+---
+
+### 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/JohnWalkerHasan?theme=light&font=Source%20Code%20Pro)
